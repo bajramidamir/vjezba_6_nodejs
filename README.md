@@ -1,7 +1,9 @@
-vjezba_6_nodejs
+PMF - Baze podataka - Vjezba: Povezivanje backend jezika s bazom / rad s bazom
 
-NEOPHODNO JE POKRENUTI KOMANDU "npm install" KAKO BI SE PREUZELI SVI MODULI
+# Prevodjenje materijala sa vjezba (pisano u Pythonu) u Node JS + Express
 
-Nakon pokretanja server.js, treba otici na localhost:3000.
+NEOPHODNO JE POKRENUTI KOMANDU "npm install" KAKO BI SE PREUZELI SVI MODULI, ZATIM U server.js PODESITI USERNAME I PASSWORD ZA SPAJANJE S BAZOM
+
+Nakon pokretanja server.js, treba otici na localhost:3000
 
 Sav ispis se vrsi u konzoli
